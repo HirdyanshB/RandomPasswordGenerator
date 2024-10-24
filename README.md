@@ -32,4 +32,4 @@ To run this project, you will need a web browser that supports JavaScript.
 3. View the Password:
   - The generated password will appear in the input box.
 4. Copy the Password:
-  - Click on the password input box to copy the password to your clipboard.   
+  - Click on the password input box to copy the password.   
